@@ -29,10 +29,10 @@ a {
 }
 
 .yes-button {
-    background-color: #4CAF50; /* Green */
+    background-color: #ffffff; /* Green */
     border: none;
-    color: white;
-    padding: 15px 32px;
+    color: black;
+    padding: 1px 7px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
