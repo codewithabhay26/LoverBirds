@@ -39,7 +39,3 @@ a {
     font-size: 16px;
     cursor: pointer;
 }
-
-.yes-button:hover {
-    background-color: #45a049;
-}
